@@ -1,28 +1,41 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Main/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+
+
+import Main from './components/Main.vue'
+import draggable from 'vuedraggable'
+
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    Main,
+    draggable
   }
 }
 </script>
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: 'Molengo', sans-serif;
+  line-height: 24px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+}
+h1,h2,h3, .swatch{
+  font-family: 'Palanquin Dark', sans-serif;
+}
+
+body{
+  background: #f6f6f6;
+  margin: 0;
+  padding: 0;
+  color: #555555;
 }
 </style>

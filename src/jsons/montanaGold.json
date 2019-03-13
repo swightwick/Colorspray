@@ -1,0 +1,774 @@
+[
+  {
+    "name": "G1000 Vanilla",
+    "color": "#ffee9b"
+  },
+  {
+    "name": "G1010 Easter Yellow",
+    "color": "#ffe363"
+  },
+  {
+    "name": "G1020 Citrus",
+    "color": "#ffd900"
+  },
+  {
+    "name": "G1030 Banana",
+    "color": "#eabf00"
+  },
+  {
+    "name": "G1040 Asia",
+    "color": "#e5bf00"
+  },
+  {
+    "name": "G1050 Curry",
+    "color": "#c6a018"
+  },
+  {
+    "name": "G1060 Mustard",
+    "color": "#a98715"
+  },
+  {
+    "name": "G1080 Everglade",
+    "color": "#7e6430"
+  },
+  {
+    "name": "G1100 Butta",
+    "color": "#fdf07a"
+  },
+  {
+    "name": "G1110 Brimstone",
+    "color": "#f4e600"
+  },
+  {
+    "name": "G1120 Banana Joe",
+    "color": "#ddcf1e"
+  },
+  {
+    "name": "G1130 Pepperoni Mild",
+    "color": "#bbb62f"
+  },
+  {
+    "name": "G1140 Pepperoni Hot",
+    "color": "#8b812f"
+  },
+  {
+    "name": "G1150 Reed",
+    "color": "#625e25"
+  },
+  {
+    "name": "G1170 Nato",
+    "color": "#46432b"
+  },
+  {
+    "name": "G1180 Military Green",
+    "color": "#252a22"
+  },
+  {
+    "name": "G1200 Pudding",
+    "color": "#ffdd70"
+  },
+  {
+    "name": "G1210 Yellow Submarine",
+    "color": "#fecc33"
+  },
+  {
+    "name": "G1220 Yellow Cab",
+    "color": "#fbb800"
+  },
+  {
+    "name": "G1230 Yolk",
+    "color": "#f6a000"
+  },
+  {
+    "name": "G1240 Golden Yellow",
+    "color": "#eb8904"
+  },
+  {
+    "name": "G1250 Terra",
+    "color": "#c87620"
+  },
+  {
+    "name": "G1260 Mushroom",
+    "color": "#523b1c"
+  },
+  {
+    "name": "G1400 Bone",
+    "color": "#f7ead9"
+  },
+  {
+    "name": "G1410 Latte",
+    "color": "#f6e2c9"
+  },
+  {
+    "name": "G1420 Cappucino",
+    "color": "#ecc6a8"
+  },
+  {
+    "name": "G1430 Make-Up",
+    "color": "#daac92"
+  },
+  {
+    "name": "G1440 Toffee",
+    "color": "#cd926e"
+  },
+  {
+    "name": "G1450 Hot Chocolate",
+    "color": "#885845"
+  },
+  {
+    "name": "G1470 Palish Brown",
+    "color": "#6e4e34"
+  },
+  {
+    "name": "G2000 White Orange",
+    "color": "#fbe9cf"
+  },
+  {
+    "name": "G2010 Orange Ice",
+    "color": "#fee9d9"
+  },
+  {
+    "name": "G2020 Creme Orange",
+    "color": "#f9c173"
+  },
+  {
+    "name": "G2030 Blast Orange",
+    "color": "#f4a34a"
+  },
+  {
+    "name": "G2040 Scampi",
+    "color": "#f29530"
+  },
+  {
+    "name": "G2050 Orangina",
+    "color": "#f08217"
+  },
+  {
+    "name": "G2060 Capri",
+    "color": "#ee7412"
+  },
+  {
+    "name": "G2070 Orange",
+    "color": "#ec6415"
+  },
+  {
+    "name": "G2080 Pure Orange",
+    "color": "#ea5818"
+  },
+  {
+    "name": "G2090 Red Orange",
+    "color": "#e43e1d"
+  },
+  {
+    "name": "G2095 Blood Orange",
+    "color": "#dc0824"
+  },
+  {
+    "name": "G3000 Lychee",
+    "color": "#f7bfc1"
+  },
+  {
+    "name": "G3010 Bazooka Joe",
+    "color": "#ed8798"
+  },
+  {
+    "name": "G3020 Strawberry",
+    "color": "#e73c4e"
+  },
+  {
+    "name": "G3030 Raspberry",
+    "color": "#d6053e"
+  },
+  {
+    "name": "G3040 Ketchup",
+    "color": "#ba1829"
+  },
+  {
+    "name": "G3050 Brick",
+    "color": "#971c24"
+  },
+  {
+    "name": "G3060 Royal Red",
+    "color": "#721e23"
+  },
+  {
+    "name": "G3070 Purple Red",
+    "color": "#5b181c"
+  },
+  {
+    "name": "G3080 Black Red",
+    "color": "#3e1511"
+  },
+  {
+    "name": "G3085 Vampirella",
+    "color": "#271619"
+  },
+  {
+    "name": "G3100 Frozen Strawberry",
+    "color": "#f9d2db"
+  },
+  {
+    "name": "G3110 Frozen Raspberry",
+    "color": "#efa9c2"
+  },
+  {
+    "name": "G3130 Pink Pink",
+    "color": "#d84389"
+  },
+  {
+    "name": "G3150 Cherry Blossom",
+    "color": "#8e135f"
+  },
+  {
+    "name": "G4000 Baby Skin",
+    "color": "#e1c3cc"
+  },
+  {
+    "name": "G4010 Mortadella",
+    "color": "#d1a3ad"
+  },
+  {
+    "name": "G4020 Dusty Pink",
+    "color": "#99536a"
+  },
+  {
+    "name": "G4030 Ancient Pink",
+    "color": "#824150"
+  },
+  {
+    "name": "G4040 Powder Pink",
+    "color": "#792b3e"
+  },
+  {
+    "name": "G4100 White Lilac",
+    "color": "#d2c1dd"
+  },
+  {
+    "name": "G4110 Light Lilac",
+    "color": "#a999c6"
+  },
+  {
+    "name": "G4130 Teen Spirit",
+    "color": "#7c6eac"
+  },
+  {
+    "name": "G4150 Lavender",
+    "color": "#55428a"
+  },
+  {
+    "name": "G4160 Gonzo",
+    "color": "#39377e"
+  },
+  {
+    "name": "G4170 Blue Velvet",
+    "color": "#2c3068"
+  },
+  {
+    "name": "G4180 Welsh",
+    "color": "#172245"
+  },
+  {
+    "name": "G4190 Cassis",
+    "color": "#10182a"
+  },
+  {
+    "name": "G4200 Crocus",
+    "color": "#cdb7d5"
+  },
+  {
+    "name": "G4210 Viola",
+    "color": "#b08ebd"
+  },
+  {
+    "name": "G4220 Sweet Dream",
+    "color": "#8e4d91"
+  },
+  {
+    "name": "G4230 Valerie",
+    "color": "#6f317f"
+  },
+  {
+    "name": "G4240 Lakers",
+    "color": "#522158"
+  },
+  {
+    "name": "G4250 Deep Purple",
+    "color": "#5c3154"
+  },
+  {
+    "name": "G4260 Black Purple",
+    "color": "#321440"
+  },
+  {
+    "name": "G5000 Flipper",
+    "color": "#cce8f0"
+  },
+  {
+    "name": "G5010 Fresh Blue",
+    "color": "#a3d7e8"
+  },
+  {
+    "name": "G5020 Baby Blue",
+    "color": "#6fc8e6"
+  },
+  {
+    "name": "G5030 Bermuda",
+    "color": "#00afd8"
+  },
+  {
+    "name": "G5040 Light Blue",
+    "color": "#00a1d1"
+  },
+  {
+    "name": "G5050 Sky Blue",
+    "color": "#008cc7"
+  },
+  {
+    "name": "G5060 Blue Magic",
+    "color": "#006ead"
+  },
+  {
+    "name": "G5075 Signal Blue",
+    "color": "#005089"
+  },
+  {
+    "name": "G5080 Ultramarine",
+    "color": "#003a6f"
+  },
+  {
+    "name": "G5085 Blue Note",
+    "color": "#003457"
+  },
+  {
+    "name": "G5090 Nautilus",
+    "color": "#0c2337"
+  },
+  {
+    "name": "G5100 Polar Blue",
+    "color": "#d8eded"
+  },
+  {
+    "name": "G5105 Summit",
+    "color": "#b9e0ea"
+  },
+  {
+    "name": "G5110 Himalaya",
+    "color": "#8acadc"
+  },
+  {
+    "name": "G5120 Mt. Everest",
+    "color": "#60a1b8"
+  },
+  {
+    "name": "G5140 Mt. Fuji",
+    "color": "#477283"
+  },
+  {
+    "name": "G5150 Fjord",
+    "color": "#255162"
+  },
+  {
+    "name": "G5160 Deep Sea",
+    "color": "#0b353f"
+  },
+  {
+    "name": "G5170 Navy",
+    "color": "#062331"
+  },
+  {
+    "name": "G6000 Venom",
+    "color": "#e5eece"
+  },
+  {
+    "name": "G6010 Linden Green",
+    "color": "#c5dda8"
+  },
+  {
+    "name": "G6020 Green Apple",
+    "color": "#a3c96d"
+  },
+  {
+    "name": "G6030 Lime",
+    "color": "#adc70b"
+  },
+  {
+    "name": "G6040 Lawn Green",
+    "color": "#7eb125"
+  },
+  {
+    "name": "G6050 Greenery",
+    "color": "#008332"
+  },
+  {
+    "name": "G6060 Fern Green",
+    "color": "#006030"
+  },
+  {
+    "name": "G6070 Smaragd Green",
+    "color": "#005129"
+  },
+  {
+    "name": "G6080 Jungle Green",
+    "color": "#003b24"
+  },
+  {
+    "name": "G6090 Deep Forest",
+    "color": "#00301f"
+  },
+  {
+    "name": "G6100 Liberty",
+    "color": "#eef5e3"
+  },
+  {
+    "name": "G6120 Malachite Light",
+    "color": "#afd8c1"
+  },
+  {
+    "name": "G6130 Malachite",
+    "color": "#65b79a"
+  },
+  {
+    "name": "G6150 Malachite Dark",
+    "color": "#3a8469"
+  },
+  {
+    "name": "G6160 Pine",
+    "color": "#006d58"
+  },
+  {
+    "name": "G6200 Venice",
+    "color": "#e5f1e6"
+  },
+  {
+    "name": "G6210 Can2 Cool Candy",
+    "color": "#c1e2e0"
+  },
+  {
+    "name": "G6230 Pool",
+    "color": "#93d1d9"
+  },
+  {
+    "name": "G6250 Dolphins",
+    "color": "#50adc5"
+  },
+  {
+    "name": "G6260 Aqua",
+    "color": "#0086a2"
+  },
+  {
+    "name": "G6270 Reef",
+    "color": "#006275"
+  },
+  {
+    "name": "G6280 Petrol",
+    "color": "#00363f"
+  },
+  {
+    "name": "G7000 Pebble",
+    "color": "#f1efea"
+  },
+  {
+    "name": "G7010 Marble",
+    "color": "#e1e2e2"
+  },
+  {
+    "name": "G7020 Wall",
+    "color": "#c6c7c6"
+  },
+  {
+    "name": "G7030 Iron Curtain",
+    "color": "#acaaa3"
+  },
+  {
+    "name": "G7050 Roof",
+    "color": "#7c7e7c"
+  },
+  {
+    "name": "G7060 Gravel",
+    "color": "#626969"
+  },
+  {
+    "name": "G7070 Stealth",
+    "color": "#313c3f"
+  },
+  {
+    "name": "G7090 Coke",
+    "color": "#0e1514"
+  },
+  {
+    "name": "G7210   Dolomite",
+    "color": "#f2eee7"
+  },
+  {
+    "name": "G7220   Ceramic",
+    "color": "#e8e4db"
+  },
+  {
+    "name": "G7230   Buzzard",
+    "color": "#d5d3ca"
+  },
+  {
+    "name": "G7240 Yosemite",
+    "color": "#dad7c9"
+  },
+  {
+    "name": "G7250 Asphalt",
+    "color": "#a09f9a"
+  },
+  {
+    "name": "G7260 Meteorite",
+    "color": "#76726b"
+  },
+  {
+    "name": "G7270 Basalt",
+    "color": "#55524d"
+  },
+  {
+    "name": "G8000 Elm",
+    "color": "#f7f0ce"
+  },
+  {
+    "name": "G8010 Sahara Yellow",
+    "color": "#e5d49c"
+  },
+  {
+    "name": "G8020 Saraha Beige",
+    "color": "#daba7f"
+  },
+  {
+    "name": "G8040 Duck Season",
+    "color": "#b29260"
+  },
+  {
+    "name": "G8070 Salmon",
+    "color": "#f3a68c"
+  },
+  {
+    "name": "G8080 Dirty Apricot",
+    "color": "#d78366"
+  },
+  {
+    "name": "G8085 Aubergine",
+    "color": "#351e1f"
+  },
+  {
+    "name": "G8090 Nougat",
+    "color": "#b77452"
+  },
+  {
+    "name": "G8100 Orange Brown",
+    "color": "#7d3924"
+  },
+  {
+    "name": "G8110 Rusto Coat",
+    "color": "#912b2f"
+  },
+  {
+    "name": "G8115 Wine Red",
+    "color": "#3e161b"
+  },
+  {
+    "name": "G8120 Cacao",
+    "color": "#54311f"
+  },
+  {
+    "name": "G8145 Anthracite",
+    "color": "#192120"
+  },
+  {
+    "name": "G8150 Concrete",
+    "color": "#353028"
+  },
+  {
+    "name": "G8170 Lip",
+    "color": "#934d54"
+  },
+  {
+    "name": "G8175 Paris",
+    "color": "#cbb5bf"
+  },
+  {
+    "name": "G8180 Brain",
+    "color": "#d6c4bf"
+  },
+  {
+    "name": "G8190 Flesh",
+    "color": "#d5bfb9"
+  },
+  {
+    "name": "CLASSIC 2100 Shrimp Pastel",
+    "color": "#f8bdb2"
+  },
+  {
+    "name": "CLASSIC 2120 Shrimp",
+    "color": "#f29c86"
+  },
+  {
+    "name": "CLASSIC 2130 Shrimp Dark",
+    "color": "#ef8464"
+  },
+  {
+    "name": "CLASSIC 4300 Louie Lilac",
+    "color": "#1e2357"
+  },
+  {
+    "name": "CLASSIC 5200 Denim Light",
+    "color": "#c9e1f3"
+  },
+  {
+    "name": "CLASSIC 5210 Denim",
+    "color": "#99c6e3"
+  },
+  {
+    "name": "CLASSIC 5220 Denim Stonewashed",
+    "color": "#6598c6"
+  },
+  {
+    "name": "CLASSIC 6300 Poison Pastel",
+    "color": "#eee436"
+  },
+  {
+    "name": "CLASSIC 6310 Poison Light",
+    "color": "#e4e028"
+  },
+  {
+    "name": "CLASSIC 6320 Poison",
+    "color": "#c8d215"
+  },
+  {
+    "name": "CLASSIC 6330 Poison Dark",
+    "color": "#adc70b"
+  },
+  {
+    "name": "CLASSIC 6340 Olive Green",
+    "color": "#494f1f"
+  },
+  {
+    "name": "CLASSIC 6400 Manila Light",
+    "color": "#a7a97a"
+  },
+  {
+    "name": "CLASSIC 6410 Manila Green",
+    "color": "#838663"
+  },
+  {
+    "name": "CLASSIC 6420 Manila Dark",
+    "color": "#46412c"
+  },
+  {
+    "name": "CLASSIC 8300 Sand",
+    "color": "#b89247"
+  },
+  {
+    "name": "CLASSIC 8310 Hazelnut",
+    "color": "#80441e"
+  },
+  {
+    "name": "CLASSIC 8320 Chestnut",
+    "color": "#4e1a1b"
+  },
+  {
+    "name": "SHOCK 1000 Yellow Light",
+    "color": "#ffde09"
+  },
+  {
+    "name": "SHOCK 1010 Yellow",
+    "color": "#fcbc00"
+  },
+  {
+    "name": "SHOCK 2000 Orange Light",
+    "color": "#ef7d0a"
+  },
+  {
+    "name": "SHOCK 2010 Orange",
+    "color": "#ea5b18"
+  },
+  {
+    "name": "SHOCK 2020 Orange Dark",
+    "color": "#e6301d"
+  },
+  {
+    "name": "SHOCK 3000 Red",
+    "color": "#cb0d1f"
+  },
+  {
+    "name": "SHOCK 3020 Kent Blood Red",
+    "color": "#af151a"
+  },
+  {
+    "name": "SHOCK 4000 Pink Light",
+    "color": "#e888b2"
+  },
+  {
+    "name": "SHOCK 4010 Pink",
+    "color": "#c73475"
+  },
+  {
+    "name": "SHOCK 4220 Lilac",
+    "color": "#312c66"
+  },
+  {
+    "name": "SHOCK 5000 Blue Light",
+    "color": "#7fc5d3"
+  },
+  {
+    "name": "SHOCK 5010 Blue",
+    "color": "#004d91"
+  },
+  {
+    "name": "SHOCK 5020 Blue Dark",
+    "color": "#05356c"
+  },
+  {
+    "name": "SHOCK 6000 Green Light",
+    "color": "#7eb627"
+  },
+  {
+    "name": "SHOCK 6010 Green",
+    "color": "#007a37"
+  },
+  {
+    "name": "SHOCK 6020 Green Dark",
+    "color": "#00612f"
+  },
+  {
+    "name": "SHOCK 8000 Brown Light",
+    "color": "#b1592a"
+  },
+  {
+    "name": "SHOCK 8010 Brown",
+    "color": "#5a3121"
+  },
+  {
+    "name": "SHOCK 8020 Brown Dark",
+    "color": "#312111"
+  },
+  {
+    "name": "SHOCK 9000 Black",
+    "color": "#0c0c0a"
+  },
+  {
+    "name": "SHOCK 9100 White",
+    "color": "#ffffff"
+  },
+  {
+    "name": "SHOCK 9110 White Cream",
+    "color": "#f8f5e9"
+  },
+  {
+    "name": "SHOCK 9120 White Pure",
+    "color": "#ffffff"
+  },
+  {
+    "name": "1000 100% Yellow",
+    "color": "#ffee00"
+  },
+  {
+    "name": "2000 100% Cyan",
+    "color": "#00aec7"
+  },
+  {
+    "name": "3000 100% Magenta",
+    "color": "#d00065"
+  }
+]

@@ -1,0 +1,550 @@
+[
+  {
+    "name": "MATT BLACK",
+    "color": "#231F20"
+  },
+  {
+    "name": "BOLT",
+    "color": "#4E3131"
+  },
+  {
+    "name": "ROARKE / BLACK",
+    "color": "#231F20"
+  },
+  {
+    "name": "LAZY",
+    "color": "#383935"
+  },
+  {
+    "name": "EARTH",
+    "color": "#513528"
+  },
+  {
+    "name": "SWISS",
+    "color": "#64340F"
+  },
+  {
+    "name": "MOCHA",
+    "color": "#A0662C"
+  },
+  {
+    "name": "MELBOURNE / GREY",
+    "color": "#545759"
+  },
+  {
+    "name": "BATTLESHIP",
+    "color": "#717271"
+  },
+  {
+    "name": "CUPPA",
+    "color": "#CFA075"
+  },
+  {
+    "name": "WASHINGTON",
+    "color": "#8A8B8C"
+  },
+  {
+    "name": "IRWIN",
+    "color": "#E2C19D"
+  },
+  {
+    "name": "HITACHI",
+    "color": "#B2B3B2"
+  },
+  {
+    "name": "FRASER",
+    "color": "#F2DFCD"
+  },
+  {
+    "name": "SMOULDER",
+    "color": "#DBD8D6"
+  },
+  {
+    "name": "SHARON",
+    "color": "#7C6755"
+  },
+  {
+    "name": "ASPEN / WHITE",
+    "color": "#FFFFFF"
+  },
+  {
+    "name": "SASHA",
+    "color": "#A49382"
+  },
+  {
+    "name": "APPLIANCE WHITE",
+    "color": "#FFFFFF"
+  },
+  {
+    "name": "CASSIUS",
+    "color": "#C7B9AB"
+  },
+  {
+    "name": "KICK",
+    "color": "#C26E6A"
+  },
+  {
+    "name": "KNOCKOUT",
+    "color": "#96665C"
+  },
+  {
+    "name": "PUNCH",
+    "color": "#DF9F92"
+  },
+  {
+    "name": "SLAP",
+    "color": "#F0C6BA"
+  },
+  {
+    "name": "TICKLE",
+    "color": "#FCDBD0"
+  },
+  {
+    "name": "BAKED",
+    "color": "#704B1C"
+  },
+  {
+    "name": "ACACIA",
+    "color": "#AB6B0E"
+  },
+  {
+    "name": "TANAMI",
+    "color": "#CE9F52"
+  },
+  {
+    "name": "OAT",
+    "color": "#D6BA8B"
+  },
+  {
+    "name": "PINEAPPLE PARK",
+    "color": "#FFDD00"
+  },
+  {
+    "name": "SMILEY FACE / YELLOW",
+    "color": "#FFDB00"
+  },
+  {
+    "name": "SORBET",
+    "color": "#FFFAC3"
+  },
+  {
+    "name": "DIECI DOES",
+    "color": "#AD431C"
+  },
+  {
+    "name": "HALLOWEEN",
+    "color": "#D3441C"
+  },
+  {
+    "name": "TUES AFTERBURN",
+    "color": "#F58326"
+  },
+  {
+    "name": "VOLCANO",
+    "color": "#FF7E2E"
+  },
+  {
+    "name": "TANGO",
+    "color": "#FF9D6B"
+  },
+  {
+    "name": "WHIP",
+    "color": "#FFBE9E"
+  },
+  {
+    "name": "BERST TITO",
+    "color": "#E79D6C"
+  },
+  {
+    "name": "BOWEN",
+    "color": "#FAAE5E"
+  },
+  {
+    "name": "SMOOTHIE",
+    "color": "#FFC279"
+  },
+  {
+    "name": "EUREKA",
+    "color": "#FFB718"
+  },
+  {
+    "name": "BUTTER",
+    "color": "#F6C55B"
+  },
+  {
+    "name": "BONDI",
+    "color": "#FFEDBA"
+  },
+  {
+    "name": "SIRM BLACK RED",
+    "color": "#571C1F"
+  },
+  {
+    "name": "MATADOR / DARK WINE",
+    "color": "#8B0E04"
+  },
+  {
+    "name": "JURNE MICAH",
+    "color": "#9F3122"
+  },
+  {
+    "name": "WANYOLOGY BLOOD",
+    "color": "#E53C2E"
+  },
+  {
+    "name": "SVT / TRUE RED",
+    "color": "#C21F32"
+  },
+  {
+    "name": "AUTUMN",
+    "color": "#D03238"
+  },
+  {
+    "name": "ISLA ROSE",
+    "color": "#BE3B4A"
+  },
+  {
+    "name": "GUAVA",
+    "color": "#F06177"
+  },
+  {
+    "name": "OINK",
+    "color": "#F5A1B9"
+  },
+  {
+    "name": "MOBERRY",
+    "color": "#8D0B56"
+  },
+  {
+    "name": "FLIRT",
+    "color": "#E01382"
+  },
+  {
+    "name": "POTION",
+    "color": "#EC80A8"
+  },
+  {
+    "name": "DELICIOUS",
+    "color": "#F49EC4"
+  },
+  {
+    "name": "CRUSH",
+    "color": "#EFC7CE"
+  },
+  {
+    "name": "DUSK",
+    "color": "#B56A94"
+  },
+  {
+    "name": "FANTASIA",
+    "color": "#D791A7"
+  },
+  {
+    "name": "TEEGS LOVE",
+    "color": "#EDBCD7"
+  },
+  {
+    "name": "PRINCE",
+    "color": "#77246C"
+  },
+  {
+    "name": "SUSHI / BRIGHT PURPLE",
+    "color": "#9B268F"
+  },
+  {
+    "name": "PUNK",
+    "color": "#B969AA"
+  },
+  {
+    "name": "STORM'S PURPLE REIGN",
+    "color": "#3D1951"
+  },
+  {
+    "name": "VENOM",
+    "color": "#4D2F47"
+  },
+  {
+    "name": "VINO",
+    "color": "#6D3A5D"
+  },
+  {
+    "name": "FURIOUS",
+    "color": "#AB6388"
+  },
+  {
+    "name": "GYPSY",
+    "color": "#C08CBE"
+  },
+  {
+    "name": "PANTHER",
+    "color": "#231B33"
+  },
+  {
+    "name": "EGGPLANT",
+    "color": "#604776"
+  },
+  {
+    "name": "PHANTOM",
+    "color": "#775BA6"
+  },
+  {
+    "name": "SFV / VIOLET",
+    "color": "#AE95C6"
+  },
+  {
+    "name": "MEKS MAGIC",
+    "color": "#C6B3D7"
+  },
+  {
+    "name": "AUGOR'S BLACKOUT",
+    "color": "#000017"
+  },
+  {
+    "name": "MIDNIGHT",
+    "color": "#0F2C52"
+  },
+  {
+    "name": "TRUE ROYAL BLUE",
+    "color": "#005189"
+  },
+  {
+    "name": "SMURF / BLUE",
+    "color": "#0076BB"
+  },
+  {
+    "name": "ENUE BONGGG!",
+    "color": "#00A0DF"
+  },
+  {
+    "name": "TORQUAY",
+    "color": "#009ADD"
+  },
+  {
+    "name": "ATMOSPHERE",
+    "color": "#8FC6E7"
+  },
+  {
+    "name": "OZONE",
+    "color": "#BEE0EA"
+  },
+  {
+    "name": "YANKEE / DARK BLUE",
+    "color": "#172751"
+  },
+  {
+    "name": "PACIFIC",
+    "color": "#1B3C6D"
+  },
+  {
+    "name": "ATLANTIC",
+    "color": "#336094"
+  },
+  {
+    "name": "CHICAGO",
+    "color": "#7E9ABF"
+  },
+  {
+    "name": "FROSTBITE",
+    "color": "#D0D9E5"
+  },
+  {
+    "name": "SHAKA",
+    "color": "#00778B"
+  },
+  {
+    "name": "REEF GREEN",
+    "color": "#008DA8"
+  },
+  {
+    "name": "LIGHTNING",
+    "color": "#00ABC7"
+  },
+  {
+    "name": "ELECTRO / LIGHT BLUE",
+    "color": "#69CADA"
+  },
+  {
+    "name": "BBQ",
+    "color": "#9AD9E8"
+  },
+  {
+    "name": "NEVERLAND",
+    "color": "#004E58"
+  },
+  {
+    "name": "HUNTER",
+    "color": "#007277"
+  },
+  {
+    "name": "FRAZETTA / TURQOUISE GREEN",
+    "color": "#00B3AA"
+  },
+  {
+    "name": "ICEBERG / LIGHT TURQUOISE",
+    "color": "#58C2B6"
+  },
+  {
+    "name": "PLACID",
+    "color": "#ABDCD4"
+  },
+  {
+    "name": "BOSTON",
+    "color": "#409C7E"
+  },
+  {
+    "name": "JARNTE",
+    "color": "#45BC96"
+  },
+  {
+    "name": "SHAMROCK",
+    "color": "#71C6A6"
+  },
+  {
+    "name": "OGRE",
+    "color": "#B2DDC9"
+  },
+  {
+    "name": "SNIPER",
+    "color": "#172F28"
+  },
+  {
+    "name": "KOSCIUSZKO",
+    "color": "#44695B"
+  },
+  {
+    "name": "KIRRA",
+    "color": "#5C7F71"
+  },
+  {
+    "name": "EUCALYPT",
+    "color": "#92ABA0"
+  },
+  {
+    "name": "TWEED",
+    "color": "#BECCC2"
+  },
+  {
+    "name": "SWAMP",
+    "color": "#002D1A"
+  },
+  {
+    "name": "HUEY",
+    "color": "#1D5632"
+  },
+  {
+    "name": "FIELD",
+    "color": "#4C8B3F"
+  },
+  {
+    "name": "CAMELEON / GRASS GREEN",
+    "color": "#62A744"
+  },
+  {
+    "name": "SUBLIME / LIGHT GREEN",
+    "color": "#A3CF5E"
+  },
+  {
+    "name": "WHIZBANG",
+    "color": "#D4E38E"
+  },
+  {
+    "name": "ASKEWS OLIVIA",
+    "color": "#514E26"
+  },
+  {
+    "name": "GUACAMOLE",
+    "color": "#6D702E"
+  },
+  {
+    "name": "EWOKS FROGGY",
+    "color": "#949436"
+  },
+  {
+    "name": "SQUELCH",
+    "color": "#A8AD36"
+  },
+  {
+    "name": "KRYPTONITE / YELLOW GREEN",
+    "color": "#CBDB29"
+  },
+  {
+    "name": "MARSH",
+    "color": "#6F5722"
+  },
+  {
+    "name": "BANOS ASBESTOS",
+    "color": "#9C842F"
+  },
+  {
+    "name": "KEEN",
+    "color": "#C5AB2E"
+  },
+  {
+    "name": "MUSTARD",
+    "color": "#E2CA30"
+  },
+  {
+    "name": "NITRO",
+    "color": "#F0E048"
+  },
+  {
+    "name": "GOLD",
+    "color": "#A29061"
+  },
+  {
+    "name": "ROSE GOLD",
+    "color": "#FF5859"
+  },
+  {
+    "name": "TWO CENTS",
+    "color": "#8E634A"
+  },
+  {
+    "name": "CHROME",
+    "color": "#8B8C8D"
+  },
+  {
+    "name": "SILVER",
+    "color": "#8B8C8D"
+  },
+  {
+    "name": "FLUORO GREEN",
+    "color": "#ACD58A"
+  },
+  {
+    "name": "FLUORO RED",
+    "color": "#F16D78"
+  },
+  {
+    "name": "FLUORO PINK",
+    "color": "#F499C1"
+  },
+  {
+    "name": "FLUORO ORANGE",
+    "color": "#FBC8B3"
+  },
+  {
+    "name": "BLACK TECHIE / TRANSPARENT BLACK",
+    "color": "#FFFFFF"
+  },
+  {
+    "name": "FLUORO YELLOW",
+    "color": "#FFE500"
+  },
+  {
+    "name": "WHITE TECHIE",
+    "color": "#FFFFFF"
+  },
+  {
+    "name": "GLOSS CLEAR VARNISH",
+    "color": "#FFFFFF"
+  },
+  {
+    "name": "MATT CLEAR VARNISH",
+    "color": "#FFFFFF"
+  },
+  {
+    "name": "SATIN CLEAR VARNISH",
+    "color": "#FFFFFF"
+  }
+]

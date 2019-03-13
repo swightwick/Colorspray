@@ -1,0 +1,822 @@
+[
+  {
+    "name": "LP-100 WHITE",
+    "color": "#ffffff"
+  },
+  {
+    "name": "LP-103 BLACK MATT",
+    "color": "#000000"
+  },
+  {
+    "name": "LP-101 GLOSS WHITE",
+    "color": "#ffffff"
+  },
+  {
+    "name": "LP-104 BLACK",
+    "color": "#000000"
+  },
+  {
+    "name": "LP-106 MADRID",
+    "color": "#fbf193"
+  },
+  {
+    "name": "LP-107 BARCELONA",
+    "color": "#ffec65"
+  },
+  {
+    "name": "LP-105 BLACK GLOSS",
+    "color": "#000000"
+  },
+  {
+    "name": "LP-108 VALENCIA",
+    "color": "#ffdd00"
+  },
+  {
+    "name": "LP-109 SEVILLA",
+    "color": "#fdce07"
+  },
+  {
+    "name": "LP-110 MALAGA",
+    "color": "#f9b300"
+  },
+  {
+    "name": "LP-120 AMSTERDAM",
+    "color": "#f3991b"
+  },
+  {
+    "name": "LP-121 HAARLEM",
+    "color": "#e78010"
+  },
+  {
+    "name": "LP-122 UTRECHT",
+    "color": "#ec6f07"
+  },
+  {
+    "name": "LP-123 ROTTERDAM",
+    "color": "#bb4914"
+  },
+  {
+    "name": "LP-124 EINDHOVEN",
+    "color": "#fedca3"
+  },
+  {
+    "name": "LP-125 BREDA",
+    "color": "#f8b14c"
+  },
+  {
+    "name": "LP-126 HELMOND",
+    "color": "#f2921f"
+  },
+  {
+    "name": "LP-127 ROSENDHAL",
+    "color": "#eb6d0f"
+  },
+  {
+    "name": "LP-128 ARNHEM",
+    "color": "#e75811"
+  },
+  {
+    "name": "LP-129 TILBURG",
+    "color": "#e04d14"
+  },
+  {
+    "name": "LP-130 OSS",
+    "color": "#e24415"
+  },
+  {
+    "name": "LP-131 BRUSSELS",
+    "color": "#ff3300"
+  },
+  {
+    "name": "LP-136 MANCHESTER",
+    "color": "#e33617"
+  },
+  {
+    "name": "LP-137 LIVERPOOL",
+    "color": "#d33118"
+  },
+  {
+    "name": "LP-138 NEWCASTLE",
+    "color": "#be2c1c"
+  },
+  {
+    "name": "LP-139 YORK",
+    "color": "#a6241c"
+  },
+  {
+    "name": "LP-140 LEEDS",
+    "color": "#7b1417"
+  },
+  {
+    "name": "LP-141 CAMBRIDGE",
+    "color": "#4e0f0f"
+  },
+  {
+    "name": "LP-142 DERBY",
+    "color": "#e8586d"
+  },
+  {
+    "name": "LP-143 BRISTOL",
+    "color": "#e53049"
+  },
+  {
+    "name": "LP-144 BRIGHTON",
+    "color": "#da0531"
+  },
+  {
+    "name": "LP-145 OXFORD",
+    "color": "#a50a25"
+  },
+  {
+    "name": "LP-146 LONDON",
+    "color": "#660001"
+  },
+  {
+    "name": "LP-147 BIRMINGHAM",
+    "color": "#ff6699"
+  },
+  {
+    "name": "LP-148 NOTTINGHAM",
+    "color": "#ef7c71"
+  },
+  {
+    "name": "LP-150 DUBLIN",
+    "color": "#faede2"
+  },
+  {
+    "name": "LP-151 GALWAY",
+    "color": "#f5b9a6"
+  },
+  {
+    "name": "LP-152 DUNDALK",
+    "color": "#ee847f"
+  },
+  {
+    "name": "LP-153 WATERFORD",
+    "color": "#bd4140"
+  },
+  {
+    "name": "LP-154 LIMERICK",
+    "color": "#f8cbcd"
+  },
+  {
+    "name": "LP-155 SWORDS",
+    "color": "#e7a4a9"
+  },
+  {
+    "name": "LP-156 CORK",
+    "color": "#8f443c"
+  },
+  {
+    "name": "LP-157 SLIGO",
+    "color": "#cc727c"
+  },
+  {
+    "name": "LP-158 FARO",
+    "color": "#f4b2c1"
+  },
+  {
+    "name": "LP-159 BEJA",
+    "color": "#f095a7"
+  },
+  {
+    "name": "LP-160 COIMBRA",
+    "color": "#e85a82"
+  },
+  {
+    "name": "LP-161 PORTO",
+    "color": "#c63d65"
+  },
+  {
+    "name": "LP-162 AMADORA",
+    "color": "#9e174f"
+  },
+  {
+    "name": "LP-163 LISBOA",
+    "color": "#88072f"
+  },
+  {
+    "name": "LP-164 THESSALONIKI",
+    "color": "#660033"
+  },
+  {
+    "name": "LP-180 VILNIUS",
+    "color": "#ccccff"
+  },
+  {
+    "name": "LP-181 KALMAR",
+    "color": "#c9a7cb"
+  },
+  {
+    "name": "LP-182 MALMO",
+    "color": "#ad83af"
+  },
+  {
+    "name": "LP-183 GOTEBORG",
+    "color": "#7c6aad"
+  },
+  {
+    "name": "LP-184 MORA",
+    "color": "#591861"
+  },
+  {
+    "name": "LP-185 FALUN",
+    "color": "#320939"
+  },
+  {
+    "name": "LP-186 STOCKHOLM",
+    "color": "#efd1cf"
+  },
+  {
+    "name": "LP-187 HELSINKI",
+    "color": "#ecc0be"
+  },
+  {
+    "name": "LP-188 OULU",
+    "color": "#d78a8c"
+  },
+  {
+    "name": "LP-189 OSLO",
+    "color": "#ab5265"
+  },
+  {
+    "name": "LP-190 COPENHAGEN",
+    "color": "#5b0e45"
+  },
+  {
+    "name": "LP-191 MOSS",
+    "color": "#6d2c75"
+  },
+  {
+    "name": "LP-192 SKAGEN",
+    "color": "#600d20"
+  },
+  {
+    "name": "LP-193 RIGA",
+    "color": "#663366"
+  },
+  {
+    "name": "LP-194 TALLIN",
+    "color": "#330033"
+  },
+  {
+    "name": "LP-200 PARIS",
+    "color": "#cee6ec"
+  },
+  {
+    "name": "LP-201 NANCY",
+    "color": "#a4cad9"
+  },
+  {
+    "name": "LP-202 STRASBOURG",
+    "color": "#7cb3cd"
+  },
+  {
+    "name": "LP-203 METS",
+    "color": "#3e8eb7"
+  },
+  {
+    "name": "LP-204 LENS",
+    "color": "#1e74a7"
+  },
+  {
+    "name": "LP-205 LILLE",
+    "color": "#004a7c"
+  },
+  {
+    "name": "LP-206 RENNES",
+    "color": "#003361"
+  },
+  {
+    "name": "LP-207 CALAIS",
+    "color": "#142754"
+  },
+  {
+    "name": "LP-208 BREST",
+    "color": "#0e1a45"
+  },
+  {
+    "name": "LP-209 BORDEAUX",
+    "color": "#b9ced6"
+  },
+  {
+    "name": "LP-210 NANTES",
+    "color": "#77a5bf"
+  },
+  {
+    "name": "LP-211 GRENOBLES",
+    "color": "#5188a4"
+  },
+  {
+    "name": "LP-212 LYON",
+    "color": "#004868"
+  },
+  {
+    "name": "LP-213 MARSEILLE",
+    "color": "#c9dbe9"
+  },
+  {
+    "name": "LP-214 NIMES",
+    "color": "#b1c4d4"
+  },
+  {
+    "name": "LP-215 MONPELLIER",
+    "color": "#7c97b4"
+  },
+  {
+    "name": "LP-216 TOULOUSE",
+    "color": "#4f6d91"
+  },
+  {
+    "name": "LP-217 NICE",
+    "color": "#0e2d52"
+  },
+  {
+    "name": "LP-218 AJACCIO",
+    "color": "#00253c"
+  },
+  {
+    "name": "LP-219 TAVERNY",
+    "color": "#336699"
+  },
+  {
+    "name": "LP-220 GENEVA",
+    "color": "#003366"
+  },
+  {
+    "name": "LP-221 BASEL",
+    "color": "#1c317a"
+  },
+  {
+    "name": "LP-248 SAN MARINO",
+    "color": "#004553"
+  },
+  {
+    "name": "LP-249 COMO",
+    "color": "#99cccc"
+  },
+  {
+    "name": "LP-250 TORINO",
+    "color": "#bbdfd8"
+  },
+  {
+    "name": "LP-251 MILANO",
+    "color": "#61bebc"
+  },
+  {
+    "name": "LP-252 BERGAMO",
+    "color": "#13a9a1"
+  },
+  {
+    "name": "LP-253 BRESCIA",
+    "color": "#007b77"
+  },
+  {
+    "name": "LP-254 VENEZIA",
+    "color": "#005155"
+  },
+  {
+    "name": "LP-255 BOLZANO",
+    "color": "#002729"
+  },
+  {
+    "name": "LP-256 PIACENZA",
+    "color": "#d2e8d6"
+  },
+  {
+    "name": "LP-257 PARMA",
+    "color": "#9acb9e"
+  },
+  {
+    "name": "LP-258 MODENA",
+    "color": "#71b26d"
+  },
+  {
+    "name": "LP-259 REGGIO EMILIA",
+    "color": "#438b51"
+  },
+  {
+    "name": "LP-260 BOLOGNA",
+    "color": "#1e5142"
+  },
+  {
+    "name": "LP-261 FERRARA",
+    "color": "#163b2b"
+  },
+  {
+    "name": "LP-262 LA SPEZIA",
+    "color": "#d8df74"
+  },
+  {
+    "name": "LP-263 PISA",
+    "color": "#c1d678"
+  },
+  {
+    "name": "LP-264 PRATO",
+    "color": "#b6ca70"
+  },
+  {
+    "name": "LP-265 LUCCA",
+    "color": "#86b54b"
+  },
+  {
+    "name": "LP-266 FIRENZE",
+    "color": "#4e9825"
+  },
+  {
+    "name": "LP-267 SIENA",
+    "color": "#638234"
+  },
+  {
+    "name": "LP-268 LIVORNO",
+    "color": "#224a1e"
+  },
+  {
+    "name": "LP-269 PERUGIA",
+    "color": "#183419"
+  },
+  {
+    "name": "LP-270 SASSARI",
+    "color": "#dce3d1"
+  },
+  {
+    "name": "LP-271 CAGLIARI",
+    "color": "#bfcdb2"
+  },
+  {
+    "name": "LP-272 MESSINA",
+    "color": "#8e9e75"
+  },
+  {
+    "name": "LP-273 CATANIA",
+    "color": "#2d4823"
+  },
+  {
+    "name": "LP-274 PALERMO",
+    "color": "#29341b"
+  },
+  {
+    "name": "LP-275 ROMA",
+    "color": "#ebe886"
+  },
+  {
+    "name": "LP-276 MORIMONDO",
+    "color": "#e5e14c"
+  },
+  {
+    "name": "LP-277 NAPOLI",
+    "color": "#dad627"
+  },
+  {
+    "name": "LP-278 SALERNO",
+    "color": "#b9cd28"
+  },
+  {
+    "name": "LP-279 FOGGIA",
+    "color": "#9fa72d"
+  },
+  {
+    "name": "LP-280 BARI",
+    "color": "#725f1d"
+  },
+  {
+    "name": "LP-281 CATANZARO",
+    "color": "#534a19"
+  },
+  {
+    "name": "LP-299 ISTANBUL",
+    "color": "#d3c200"
+  },
+  {
+    "name": "LP-300 ZAGREB",
+    "color": "#f4edb3"
+  },
+  {
+    "name": "LP-301 BRATISLAVA",
+    "color": "#ddd491"
+  },
+  {
+    "name": "LP-302 BUCAREST",
+    "color": "#cbbf5c"
+  },
+  {
+    "name": "LP-303 BUDAPEST",
+    "color": "#aa8413"
+  },
+  {
+    "name": "LP-304 PRAGA",
+    "color": "#917022"
+  },
+  {
+    "name": "LP-305 BELGRADE",
+    "color": "#5c4826"
+  },
+  {
+    "name": "LP-306 VIENNA",
+    "color": "#f6e4c2"
+  },
+  {
+    "name": "LP-307 KREMS",
+    "color": "#ddc69e"
+  },
+  {
+    "name": "LP-308 LINZ",
+    "color": "#d3a96b"
+  },
+  {
+    "name": "LP-309 WELLS",
+    "color": "#8a5623"
+  },
+  {
+    "name": "LP-310 SALZBURG",
+    "color": "#6d4b2a"
+  },
+  {
+    "name": "LP-311 GRAZ",
+    "color": "#543b25"
+  },
+  {
+    "name": "LP-312 BADEN",
+    "color": "#281712"
+  },
+  {
+    "name": "LP-313 BERLIN",
+    "color": "#f0d0b1"
+  },
+  {
+    "name": "LP-314 HAMBURG",
+    "color": "#eaa77d"
+  },
+  {
+    "name": "LP-315 BREMEN",
+    "color": "#efa368"
+  },
+  {
+    "name": "LP-316 HANNOVER",
+    "color": "#d56112"
+  },
+  {
+    "name": "LP-317 DORTMUND",
+    "color": "#a55520"
+  },
+  {
+    "name": "LP-318 HALLEN",
+    "color": "#613b23"
+  },
+  {
+    "name": "LP-319 MUNCHEN",
+    "color": "#f8e3cc"
+  },
+  {
+    "name": "LP-320 STUTTGART",
+    "color": "#d4b99c"
+  },
+  {
+    "name": "LP-321 NURNBERG",
+    "color": "#ac825d"
+  },
+  {
+    "name": "LP-322 MAINZ",
+    "color": "#7b3f2c"
+  },
+  {
+    "name": "LP-323 FRANKFURT",
+    "color": "#6f4629"
+  },
+  {
+    "name": "LP-324 BONN",
+    "color": "#523522"
+  },
+  {
+    "name": "LP-325 KOLN",
+    "color": "#3b1612"
+  },
+  {
+    "name": "LP-326 LEIPZIG",
+    "color": "#cc6633"
+  },
+  {
+    "name": "LP-327 INNSBRUCK",
+    "color": "#b49252"
+  },
+  {
+    "name": "LP-328 DUESSELDORF",
+    "color": "#512900"
+  },
+  {
+    "name": "LP-340 LOS ANGELES",
+    "color": "#ece9e1"
+  },
+  {
+    "name": "LP-341 SAN DIEGO",
+    "color": "#ccc9c1"
+  },
+  {
+    "name": "LP-342 SAN JOSE",
+    "color": "#bdb9b0"
+  },
+  {
+    "name": "LP-343 SAN FRANCISCO",
+    "color": "#a9a5a0"
+  },
+  {
+    "name": "LP-344 OAKLAND",
+    "color": "#7e7970"
+  },
+  {
+    "name": "LP-345 SACRAMENTO",
+    "color": "#5a5551"
+  },
+  {
+    "name": "LP-346 LONG BEACH",
+    "color": "#444342"
+  },
+  {
+    "name": "LP-347 HOUSTON",
+    "color": "#e5d4c5"
+  },
+  {
+    "name": "LP-348 SAN ANTONIO",
+    "color": "#d1b4a2"
+  },
+  {
+    "name": "LP-349 DALLAS",
+    "color": "#9f7d74"
+  },
+  {
+    "name": "LP-350 AUSTIN",
+    "color": "#5f4444"
+  },
+  {
+    "name": "LP-351 EL PASO",
+    "color": "#403439"
+  },
+  {
+    "name": "LP-352 NEW YORK",
+    "color": "#d7d8d7"
+  },
+  {
+    "name": "LP-353 BOSTON",
+    "color": "#c2c3c9"
+  },
+  {
+    "name": "LP-354 CHICAGO",
+    "color": "#abaab4"
+  },
+  {
+    "name": "LP-355 PHILLY",
+    "color": "#666177"
+  },
+  {
+    "name": "LP-356 WASHINGTON",
+    "color": "#3a3740"
+  },
+  {
+    "name": "LP-357 MIAMI",
+    "color": "#d8d5c2"
+  },
+  {
+    "name": "LP-358 ORLANDO",
+    "color": "#b8b39e"
+  },
+  {
+    "name": "LP-359 TAMPA",
+    "color": "#9b937b"
+  },
+  {
+    "name": "LP-360 JACKSONVILLE",
+    "color": "#76685c"
+  },
+  {
+    "name": "LP-361 KEY WEST",
+    "color": "#564c42"
+  },
+  {
+    "name": "LP-362 FORT MYERS",
+    "color": "#3f3a30"
+  },
+  {
+    "name": "LP-363 SEATTLE",
+    "color": "#d8ccc1"
+  },
+  {
+    "name": "LP-364 PORTLAND",
+    "color": "#b6a18b"
+  },
+  {
+    "name": "LP-365 LAS VEGAS",
+    "color": "#8c7464"
+  },
+  {
+    "name": "LP-366 DETROIT",
+    "color": "#644e41"
+  },
+  {
+    "name": "LP-367 BALTIMORE",
+    "color": "#3f2d27"
+  },
+  {
+    "name": "LP-368 INDIANAPOLIS",
+    "color": "#666666"
+  },
+  {
+    "name": "LP-370 MELBOURNE",
+    "color": "#f7c7b6"
+  },
+  {
+    "name": "LP-371 SIDNEY",
+    "color": "#ddaa9a"
+  },
+  {
+    "name": "LP-372 BRISBANE",
+    "color": "#cf9583"
+  },
+  {
+    "name": "LP-373 CHRISTCHURCH",
+    "color": "#b3847b"
+  },
+  {
+    "name": "LP-374 WELLINGTON",
+    "color": "#8b554c"
+  },
+  {
+    "name": "LP-390 TRANSPARENT WHITE",
+    "color": "#ffffff"
+  },
+  {
+    "name": "LP-391 TRANSPARENT BLACK",
+    "color": "#000000"
+  },
+  {
+    "name": "LP-392 TRANSPARENT BROWN",
+    "color": "#563f26"
+  },
+  {
+    "name": "LP-393 TRANSPARENT GREEN",
+    "color": "#008000"
+  },
+  {
+    "name": "LP-394 TRANSPARENT BLUE",
+    "color": "#0000ff"
+  },
+  {
+    "name": "LP-395 TRANSPARENT RED",
+    "color": "#ff0000"
+  },
+  {
+    "name": "LP-400 SILVER 400ml",
+    "color": "#bec2c5"
+  },
+  {
+    "name": "LP-401 GOLD 400ml.",
+    "color": "#d5a940"
+  },
+  {
+    "name": "LP-402 COPPER 400ml.",
+    "color": "#aa6255"
+  },
+  {
+    "name": "LP-409 FLUO BLUE",
+    "color": "#0099cc"
+  },
+  {
+    "name": "LP-410 FLUO YELLOW",
+    "color": "#ffed00"
+  },
+  {
+    "name": "LP-411 FLUO ORANGE",
+    "color": "#f08a00"
+  },
+  {
+    "name": "LP-412 FLUO RED",
+    "color": "#e53517"
+  },
+  {
+    "name": "LP-413 FLUO PINK",
+    "color": "#e30045"
+  },
+  {
+    "name": "LP-414 FLUO GREEN",
+    "color": "#57ab27"
+  },
+  {
+    "name": "LP-450 Dolly Noire Black Pearl",
+    "color": "#000000"
+  },
+  {
+    "name": "VARNISH MATT LP- 430 400 ML",
+    "color": "#ffffff"
+  },
+  {
+    "name": "VARNISH SATIN LP-431 400 ML",
+    "color": "#ffffff"
+  },
+  {
+    "name": "LP-432 GLOSS VARNISH",
+    "color": "#ffffff"
+  },
+  {
+    "name": "CAP CLEANER LP-437",
+    "color": "#ffffff"
+  }
+]
