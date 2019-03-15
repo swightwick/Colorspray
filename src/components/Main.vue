@@ -4,7 +4,8 @@
     <header>
       <div id="headerContainer">
       <h1 @click="goHome">{{ siteTitle }}</h1>
-      <nav class="nav">
+      <span class="mobileButton" v-on:click='mobMenuOpen = !mobMenuOpen'>Click me</span>
+      <nav class="nav" v-bind:class="{ active: mobMenuOpen }">
         <ul>
           <li v-on:click="panelOpen = 'ironlak'" @click="scrollToTop" v-bind:class="{ 'active': panelOpen == 'ironlak'}">Ironlak</li>
           <li v-on:click="panelOpen = 'montanaHardcore'" @click="scrollToTop" v-bind:class="{ 'active': panelOpen == 'montanaHardcore'}">Montana Hardcore</li>
@@ -42,21 +43,20 @@
           c31.8-4.6,11.8,13.8,7.9,18.5c-2,23-30.6,22.3-35.7,7.8C134.1,212.5,134.2,211.5,134.6,210.7L134.6,210.7z"/>
       </g>
       </svg>
-
     </div>
 
 
     <transition
       enter-active-class="animated slideInUp"
-      leave-active-class="animated slideOutDown"
-    >
+      leave-active-class="animated slideOutDown">
       <div id="palette" v-show="paletteOpen == true">
         <div class="row title">
-          <div class="col-lg-6 col-xs-6 infoOne">
-            <strong>Your Palette</strong>
+          <div class="col-lg-6 col-xs-12 infoOne">
+            <strong>Your Palette</strong><span>Click to delete, drag to rearrange</span>
           </div>
-          <div class="col-lg-6 col-xs-6 infoTwo">
+          <div class="col-lg-6 col-xs-12 infoTwo">
             <span @click="clearPalette()">Clear All</span>
+            <span v-on:click='paletteList = !paletteList'>Show list</span>
             <span v-on:click='paletteOpen = !paletteOpen'>Close Palette</span>
           </div>
         </div>
@@ -73,7 +73,11 @@
           </div>
         </div>
 
-        <div class="row">
+    <transition
+      enter-active-class="animated slideInUp"
+      leave-active-class="animated slideOutDown"
+    >
+        <div class="row" v-show="paletteList == true">
           <div class="list">
             <h3>My Palette</h3>
               <table>
@@ -88,6 +92,7 @@
               </table>
           </div>
         </div>
+        </transition>
 
       </div>
     </transition>
@@ -189,21 +194,23 @@ import ironlakLogo from '../images/ironlak.png'
 import montanaLogo from '../images/montana.png'
 import mtnLogo from '../images/mtn.png'
 import loopLogo from '../images/loop.png'
-  import draggable from 'vuedraggable'
+import draggable from 'vuedraggable'
 
 
 export default {
-        components: {
-            draggable
-        },
+  components: {
+      draggable
+  },
   name: 'Main',
   data() {
     return {
       index: '',
       siteTitle: "ColorSpray",
       siteUrl: "colorspray.com",
+      mobMenuOpen: '',
       panelOpen: 'home',
       paletteOpen: false,
+      paletteList: false,
       loop: loop,
       ironlak: ironlak,
       montanaGold: montanaGold,
@@ -317,6 +324,11 @@ nav{
     .infoOne{
       display: flex;
       justify-content: flex-start;
+      span{
+        display: inline-block;
+        font-size: 10px;
+        margin-left: 20px;
+      }
     }
     .infoTwo{
       display: flex;
@@ -376,6 +388,7 @@ nav{
 }
 
 #paletteTab{
+  z-index: 999;
   position: fixed;
   bottom: 0;
   right: 50px;
@@ -396,6 +409,9 @@ nav{
 
 #homeVideo{
   max-height: 50rem;
+  h1{
+    padding: 0 2rem;
+  }
 }
 
 .logos{
@@ -548,16 +564,65 @@ footer{
 }
 
 @media only screen and (max-width: 480px)  {
-
+  p{
+    padding: 0 2rem;
+  }
   #container{
     max-width: 98%;
     margin: 0 1%;
     display: block;
-    padding-top: 10rem;
+  }
+  #mainHolder{
+    padding-top: 5rem;
+  }
+  .logos{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+  #ironlakHolder, #montanagoldHolder, #loopHolder{
+    padding-top: 0;
+    margin-bottom: 1rem;
   }
   .color{
-    padding:  .5rem 1rem;
+    padding:.5rem 1rem;
   }
+  #headerContainer{
+    max-width: 100%;
+    flex-direction: column;
+  }
+  #palette{
+    padding-top: 10rem;
+    height: 90%;
+  }
+  #paletteTab{
+    right: 0;
+  }
+  nav{
+    display: none;
+    &.active{
+      display: block;
+      -webkit-animation-name: fadeInDown;
+      animation-name: fadeInDown;
+      -webkit-animation-duration: 1s;
+      animation-duration: 1s;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
+    }
+    ul{
+      flex-direction: column;
+      li{
+        border-width: 0 1px 0 1px;
+        padding: 1rem;
+        list-style: none;
+        flex: 1;
+        &.active{
+          border-bottom: 3px solid;
+        }
+      }
+    }
+  }
+
 }
 
 </style>
