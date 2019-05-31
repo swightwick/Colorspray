@@ -80,6 +80,8 @@
         <div class="row" v-show="paletteList == true">
           <div class="list">
             <h3>My Palette</h3>
+              <button @click="downloadWithCSS">Download PDF WITH CSS</button>
+              <button @click="download">Download PDF WITHOUT CSS</button>
               <table>
                 <tr>
                   <th>Name</th>
@@ -90,15 +92,27 @@
                   <td>{{paletteColor.color}}</td>
                 </tr>
               </table>
+
           </div>
         </div>
         </transition>
+
+                            <table ref="myList" id="hidden" style="position: absolute; left: -9999px; font-size: 8px;">
+                <tr>
+                  <th>Name</th>
+                  <th>Color value</th>
+                </tr>
+                <tr v-for="(paletteColor, index) in paletteColors">
+                  <td>{{paletteColor.name}}</td>
+                  <td>{{paletteColor.color}}</td>
+                </tr>
+              </table>
+
 
       </div>
     </transition>
 
     <video-bg :sources="['../paint.mp4']" img="demo/assets/bg.jpg"  id="homeVideo" v-show="panelOpen == 'home'">
-      <!-- If you want to add content here, a slot is waiting! -->
       <h1>All colors from the best spray paint brands in on place!</h1>
     </video-bg>
 
@@ -195,6 +209,8 @@ import montanaLogo from '../images/montana.png'
 import mtnLogo from '../images/mtn.png'
 import loopLogo from '../images/loop.png'
 import draggable from 'vuedraggable'
+import jsPDF from "jspdf";
+import html2canvas from "html2canvas"
 
 
 export default {
@@ -235,6 +251,25 @@ export default {
     },
     clearPalette(){
       this.paletteColors = [];
+    },
+    downloadWithCSS() {
+      const doc = new jsPDF('p','pt','a4');
+      /** WITH CSS */
+      var canvasElement = document.createElement('canvas');
+      html2canvas(this.$refs.myList, { canvas: canvasElement }).then(function (canvas) {
+        const img = canvas.toDataURL("image/png");
+        doc.addImage(img,'JPEG',211,298);
+        doc.save("sample.pdf");
+      });
+    },
+    download() {
+      const doc = new jsPDF('p','pt','a4');
+      /** WITHOUT CSS */
+      const contentHtml = this.$refs.myList.innerHTML;
+      doc.fromHTML(contentHtml, 15, 15, {
+          width: 170
+        });
+      doc.save("sample.pdf");
     }
   }
 }
@@ -581,7 +616,7 @@ footer{
     justify-content: space-evenly;
   }
   #ironlakHolder, #montanagoldHolder, #loopHolder{
-    padding-top: 0;
+    padding-top: 6rem;
     margin-bottom: 1rem;
   }
   .color{

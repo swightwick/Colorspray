@@ -9,7 +9,8 @@
 
 import Main from './components/Main.vue'
 import draggable from 'vuedraggable'
-
+import jsPDF from "jspdf";
+import html2canvas from "html2canvas"
 
 export default {
   name: 'app',
