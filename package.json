@@ -30,7 +30,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "gulp-json-concat": "^0.1.1",
     "gulp-jsoncombine": "^1.0.4",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
     "vue-template-compiler": "^2.5.21",
